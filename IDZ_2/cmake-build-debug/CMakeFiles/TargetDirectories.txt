@@ -1,0 +1,3 @@
+/Users/aleksandrapetrova/CLionProjects/IDZ_2/cmake-build-debug/CMakeFiles/IDZ_2.dir
+/Users/aleksandrapetrova/CLionProjects/IDZ_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/aleksandrapetrova/CLionProjects/IDZ_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
